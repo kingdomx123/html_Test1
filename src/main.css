@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Sriracha&family=Taviraj:wght@100&display=swap');
+
+*{
+    font-family: 'Sriracha', cursive;
+    font-family: 'Taviraj', serif;
+}
+
+body {
+    background: rgb(126, 188, 138);
+    color: azure;
+
+    text-align:center;
+}
+
+.head {
+    text-align: center;
+}
+
+table {
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  table td, table th {
+    border: 1px solid #020202;
+    padding: 8px;
+  }
+  
+  #table tr:nth-child(even){background-color: #f2f2f2;}
+  
+  table tr:hover {background-color: #4abbf0;}
+  
+  table th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #3569eb;
+    color: rgb(255, 255, 255);
+
+    text-align:center;
+  }
