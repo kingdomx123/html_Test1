@@ -6,8 +6,9 @@
 }
 
 body {
-    background: rgb(126, 188, 138);
-    color: azure;
+    color: rgb(0, 0, 0);
+    background-image: url("/backgroud3.jpg");
+    background-repeat: repeat-x;
 
     text-align: center;
 }
